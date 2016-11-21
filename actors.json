@@ -1,0 +1,128 @@
+{"nodes":[
+    {"name":"Keylor Navas", "Number":"13", "x":"70", "y":"360", "z":40 ,"Position":"GK", "Status":"starting"},
+
+
+    {"name":"Producers", "Number":"Producers", "x":"700", "y":"640", "z":40 ,"Position":"Midfielder", "Status":"starting"},
+
+    {"name":"Newsreaders", "Number":"News readers", "x":"530", "y":"640", "z":40 ,"Position":"Midfielder", "Status":"starting"},
+
+    {"name":"Reportors", "Number":"Reporters", "x":"400", "y":"550", "z":40 ,"Position":"Midfielder", "Status":"starting"},
+
+    {"name":"Camera guys", "Number":"Camera guys", "x":"380", "y":"400", "z":40 ,"Position":"Midfielder", "Status":"starting"},
+
+    {"name":"Writers / Contributors", "Number":"Writers / contributors", "x":"380", "y":"250", "z":40 ,"Position":"Midfielder", "Status":"starting"},
+
+    {"name":"Audience", "Number":"Audience", "x":"450", "y":"100", "z":40 ,"Position":"Midfielder", "Status":"starting"},
+
+    {"name":"Biz Devpt", "Number":"Biz Devpt", "x":"610", "y":"150", "z":40 ,"Position":"Midfielder", "Status":"starting"},
+
+    {"name":"Social media mngr", "Number":"Social media mngr", "x":"580", "y":"280", "z":40 ,"Position":"Midfielder", "Status":"starting"},
+
+    {"name":"Editors", "Number":"Editors", "x":"550", "y":"420", "z":40 ,"Position":"Midfielder", "Status":"starting"},
+
+    {"name":"Sales", "Number":"Sales", "x":"700", "y":"70", "z":40 ,"Position":"Midfielder", "Status":"starting"},
+
+    {"name":"3rd Party Partners", "Number":"Partners", "x":"850", "y":"120", "z":40 ,"Position":"Midfielder", "Status":"starting"},
+
+    {"name":"Web designer", "Number":"Web designer", "x":"900", "y":"250", "z":40 ,"Position":"Midfielder", "Status":"starting"},
+
+    {"name":"Web developer", "Number":"Web developer", "x":"900", "y":"400", "z":40 ,"Position":"Midfielder", "Status":"starting"},
+
+    {"name":"Devices", "Number":"Devices", "x":"1000", "y":"350", "z":40 ,"Position":"Midfielder", "Status":"starting"},
+
+    {"name":"Net access", "Number":"Net access", "x":"1100", "y":"350", "z":40 ,"Position":"Midfielder", "Status":"starting"},
+
+    {"name":"Web", "Number":"Web", "x":"770", "y":"320", "z":40 ,"Position":"Midfielder", "Status":"starting"},
+
+    {"name":"Webmaster", "Number":"Webmaster", "x":"730", "y":"400", "z":40 ,"Position":"Midfielder", "Status":"starting"},
+
+    {"name":"IT Personnel", "Number":"IT Personnel", "x":"900", "y":"500", "z":40 ,"Position":"Midfielder", "Status":"starting"},
+
+    {"name":"Radio", "Number":"Radio", "x":"840", "y":"600", "z":40 ,"Position":"Midfielder", "Status":"starting"},
+    
+    {"name":"Sources", "Number":"Souces", "x":"280", "y":"600", "z":40 ,"Position":"Midfielder", "Status":"starting"}
+
+],
+"links":[
+{"source": 1, "target": 19, "time": 1},
+{"source": 19, "target": 1, "time": 1},
+{"source": 2, "target": 1, "time": 1},
+{"source": 2, "target": 9, "time": 1},
+{"source": 9, "target": 2, "time": 1},
+{"source": 2, "target": 3, "time": 1},
+{"source": 3, "target": 2, "time": 1},
+{"source": 3, "target": 20, "time": 1},
+{"source": 20, "target": 3, "time": 1},
+{"source": 3, "target": 4, "time": 1},
+{"source": 4, "target": 3, "time": 1},
+{"source": 3, "target": 9, "time": 1},
+{"source": 9, "target": 3, "time": 1},
+{"source": 17, "target": 3, "time": 1},
+{"source": 3, "target": 6, "time": 1},
+{"source": 4, "target": 5, "time": 1},
+{"source": 5, "target": 4, "time": 1},
+{"source": 4, "target": 9, "time": 1},
+{"source": 9, "target": 4, "time": 1},
+{"source": 4, "target": 16, "time": 1},
+{"source": 5, "target": 6, "time": 1},
+{"source": 6, "target": 5, "time": 1},
+{"source": 5, "target": 20, "time": 1},
+{"source": 20, "target": 5, "time": 1},
+{"source": 5, "target": 9, "time": 1},
+{"source": 9, "target": 5, "time": 1},
+{"source": 5, "target": 16, "time": 1},
+{"source": 7, "target": 6, "time": 1},
+{"source": 8, "target": 6, "time": 1},
+{"source": 8, "target": 9, "time": 1},
+{"source": 9, "target": 8, "time": 1},
+{"source": 8, "target": 17, "time": 1},
+{"source": 17, "target": 8, "time": 1},
+{"source": 8, "target": 19, "time": 1},
+{"source": 19, "target": 8, "time": 1},
+{"source": 8, "target": 16, "time": 1},
+
+{"source": 9, "target": 6, "time": 1},
+{"source": 6, "target": 9, "time": 1},
+{"source": 9, "target": 20, "time": 1},
+{"source": 20, "target": 9, "time": 1},
+{"source": 9, "target": 18, "time": 1},
+{"source": 18, "target": 9, "time": 1},
+{"source": 9, "target": 17, "time": 1},
+{"source": 17, "target": 9, "time": 1},
+{"source": 9, "target": 11, "time": 1},
+{"source": 11, "target": 9, "time": 1},
+
+{"source": 10, "target": 7, "time": 1},
+{"source": 7, "target": 10, "time": 1},
+
+{"source": 11, "target": 7, "time": 1},
+{"source": 7, "target": 11, "time": 1},
+
+{"source": 11, "target": 16, "time": 1},
+{"source": 16, "target": 11, "time": 1},
+{"source": 18, "target": 11, "time": 1},
+
+{"source": 12, "target": 16, "time": 1},
+{"source": 12, "target": 13, "time": 1},
+{"source": 13, "target": 12, "time": 1},
+{"source": 13, "target": 16, "time": 1},
+{"source": 13, "target": 17, "time": 1},
+{"source": 17, "target": 13, "time": 1},
+
+{"source": 14, "target": 16, "time": 1},
+{"source": 15, "target": 14, "time": 1},
+{"source": 18, "target": 15, "time": 1},
+{"source": 17, "target": 16, "time": 1},
+{"source": 17, "target": 18, "time": 1},
+{"source": 18, "target": 17, "time": 1},
+{"source": 7, "target": 17, "time": 1},
+{"source": 17, "target": 7, "time": 1},
+{"source": 17, "target": 6, "time": 1},
+{"source": 6, "target": 17, "time": 1},
+
+{"source": 18, "target": 14, "time": 1},
+{"source": 18, "target": 19, "time": 1},
+{"source": 19, "target": 18, "time": 1},
+{"source": 19, "target": 16, "time": 1}
+
+]}
