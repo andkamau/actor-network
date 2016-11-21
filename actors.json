@@ -1,6 +1,5 @@
 {"nodes":[
-    {"name":"Keylor Navas", "Number":"13", "x":"70", "y":"360", "z":40 ,"Position":"GK", "Status":"starting"},
-
+    {"name":"Capital FM", "Number":"13", "x":"70", "y":"360", "z":40 ,"Position":"GK", "Status":"starting"},
 
     {"name":"Producers", "Number":"Producers", "x":"700", "y":"640", "z":40 ,"Position":"Midfielder", "Status":"starting"},
 
