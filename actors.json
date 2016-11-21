@@ -27,9 +27,9 @@
 
     {"name":"Web developer", "Number":"Web developer", "x":"900", "y":"400", "z":40 ,"Position":"Midfielder", "Status":"starting"},
 
-    {"name":"Devices", "Number":"Devices", "x":"1000", "y":"350", "z":40 ,"Position":"Midfielder", "Status":"starting"},
+    {"name":"Devices", "Number":"Devices", "x":"700", "y":"550", "z":40 ,"Position":"Midfielder", "Status":"starting"},
 
-    {"name":"Net access", "Number":"Net access", "x":"1100", "y":"350", "z":40 ,"Position":"Midfielder", "Status":"starting"},
+    {"name":"Net access", "Number":"Net access", "x":"700", "y":"650", "z":40 ,"Position":"Midfielder", "Status":"starting"},
 
     {"name":"Web", "Number":"Web", "x":"770", "y":"320", "z":40 ,"Position":"Midfielder", "Status":"starting"},
 

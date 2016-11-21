@@ -12,4 +12,8 @@
   </defs>
      
      <rect x="0" y="0" width="1150" height="720" fill="#8B665C" />
+     <circle cx="675" cy="500" r="250" stroke="white" stroke-width="19" fill-opacity="0" />
+     <circle cx="875" cy="250" r="250" stroke="blue" stroke-width="19" fill-opacity="0" />
+     <circle cx="550" cy="250" r="250" stroke="yellow" stroke-width="19" fill-opacity="0" />
+ 
 </svg>
